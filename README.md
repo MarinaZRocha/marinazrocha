@@ -1,5 +1,5 @@
 
-# :raising_hand: About me
+# 🙋‍♀️: About me
 21 years old, Industrial Automation technician graduated at IFRS - Campus Rio Grande, currently coursing Automation Engineering at Universidade Federal do Rio Grande - FURG. I'm a volunteer at FURG's robotic team FBOT in the @Home category.
 
 # :unlock: Skills

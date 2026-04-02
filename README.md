@@ -1,10 +1,11 @@
 
 # 🙋‍♀️ About me
-23 years old, Industrial Automation technician graduated at IFRS - Campus Rio Grande, currently coursing Automation Engineering at Universidade Federal do Rio Grande - FURG. I'm a volunteer at FURG's robotic team FBOT in the @Home category.
+25 years old, Automation Engineer and Industrial Automation technician graduated at IFRS - Campus Rio Grande, currently coursing Master's Computer Engineering at Universidade Federal do Rio Grande - FURG. I'm  captain in the @Home category at FURG's robotic team FBOT.
 
 # :unlock: Skills
 * Projects with Arduino, ESP32 and similar;
 * Intermediary knowledge of Python and C++;
+* ROS/ROS2;
 * 3D modelling;
 * Intermediary level of English;
 
